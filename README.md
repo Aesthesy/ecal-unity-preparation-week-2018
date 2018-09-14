@@ -5,6 +5,13 @@ Notes
 --- 
 * Made with Unity version `2018.2.7f1`
 
+Asset store
+---
+* `Standard Assets` - complete examples from Unity
+* `DOTween (HOTween v2)`
+
+
+
 References
 ---
 * [Catlike coding](https://catlikecoding.com/unity/tutorials/)
